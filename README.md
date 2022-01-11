@@ -1,6 +1,6 @@
 # flutter_bikecontroller
 
-A new Flutter project. (ON GOING)
+A new Flutter project. (On Going..)
 
 ## Getting Started
 
